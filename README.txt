@@ -24,3 +24,5 @@ To delete an item check the checkbox beside that item.
 Credits
 
 The Complete 2022 Web Developemnt Bootcamp by Angela Yu (Udemy)
+
+Project hosted at https://guarded-waters-72890.herokuapp.com/
